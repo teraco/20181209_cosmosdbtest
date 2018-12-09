@@ -1,0 +1,25 @@
+{
+  "name": "cosmosdbtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teraco/20181209_cosmosdbtest.git"
+  },
+  "author": "teraco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teraco/20181209_cosmosdbtest/issues"
+  },
+  "homepage": "https://github.com/teraco/20181209_cosmosdbtest#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
