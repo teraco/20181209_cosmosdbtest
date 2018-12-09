@@ -16,7 +16,9 @@
     "url": "https://github.com/teraco/20181209_cosmosdbtest/issues"
   },
   "homepage": "https://github.com/teraco/20181209_cosmosdbtest#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@azure/cosmos": "^2.1.1"
+  },
   "devDependencies": {
     "eslint": "^5.10.0",
     "eslint-config-airbnb-base": "^13.1.0",
